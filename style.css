@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+input {
+    
+    border:1px;
+    align-items: center;
+
+}
+.container{
+    padding: 15px;
+}
