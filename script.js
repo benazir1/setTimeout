@@ -14,7 +14,7 @@ setTimeout(function(){ x.value="1 seconds" }, 10000);
 setTimeout("displayImage()",11000);
 
 function displayImage(src, width, height) {
-  console.log("hghghgh");  
+  
  var img = document.createElement("img");
  img.src ="./image/pngtree-15-august-happy-independence-day-india-png-image_6094423.png";
  img.width = 400;
