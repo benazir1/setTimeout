@@ -6,11 +6,11 @@ setTimeout(function(){ x.value="7 seconds" }, 4000);
 
 setTimeout(function(){ x.value="6 seconds" }, 5000);
 setTimeout(function(){ x.value="5 seconds" }, 6000);
-setTimeout(function(){ x.value="4 seconds" }, 6000);
+setTimeout(function(){ x.value="4 seconds" }, 7000);
 
-setTimeout(function(){ x.value="3 seconds" }, 7000);
-setTimeout(function(){ x.value="2 seconds" }, 8000);
-setTimeout(function(){ x.value="1 seconds" }, 9000);
+setTimeout(function(){ x.value="3 seconds" }, 8000);
+setTimeout(function(){ x.value="2 seconds" }, 9000);
+setTimeout(function(){ x.value="1 seconds" }, 10000);
 setTimeout("displayImage()",11000);
 
 function displayImage(src, width, height) {
